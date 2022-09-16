@@ -1,4 +1,4 @@
-class persona {
+/*class persona {
 
     constructor(nombre, apellido, mascotas = []) {
         this.nombre = nombre;
@@ -45,7 +45,7 @@ usuario.countPets()
 usuario.getFullName()
 console.log(usuario.getFullName());
 console.log(usuario.countPets());
-console.log(addPet);
+console.log(addPet);*/
 
 
 
